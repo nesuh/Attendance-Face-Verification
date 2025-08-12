@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Environment variables file
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Temporary files and folders
+temp/
+*.tmp
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# pipenv
+Pipfile.lock
+
+# Docker files (optional, if you use Docker)
+docker-compose.override.yml
+
+# Docker ignore
+.dockerignore

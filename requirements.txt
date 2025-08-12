@@ -1,0 +1,5 @@
+deepface
+fastapi
+uvicorn
+aiofiles
+dotenv
