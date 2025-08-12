@@ -3,3 +3,5 @@ fastapi
 uvicorn
 aiofiles
 dotenv
+tf-keras
+python-multipart
